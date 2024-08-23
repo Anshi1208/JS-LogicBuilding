@@ -1,6 +1,8 @@
 # **30 Days of JavaScript Logic Building**
 
-### ** Check out the code for [Day 1: Reverse Number](https://github.com/Anshi1208/AdvanceJS-30DaysChallenge/blob/main/1-ReverseNumber.js).
+### ** Check out the code for :-
+[Day 1: Reverse Number](https://github.com/Anshi1208/AdvanceJS-30DaysChallenge/blob/main/1-ReverseNumber.js).
+[Day 2: String Palindrome checker](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/2-StringPalindrome.js).
 
 
 ### **How to Run**
