@@ -5,6 +5,8 @@
 [Day 2: String Palindrome checker](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/2-StringPalindrome.js).
 [Day 3: Array Chunks](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/3-ArrayChunks.js).
 
+[Day 4: FizzBuzz](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/4-FizzBuzz.js).
+
 
 
 ### **How to Run**
