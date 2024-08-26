@@ -8,6 +8,9 @@
 [Day 4: FizzBuzz](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/4-FizzBuzz.js).
 
 
+[Day 5: Longest Common Prefix](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/5-LongestCommonPre.js).
+
+
 
 ### **How to Run**
 
