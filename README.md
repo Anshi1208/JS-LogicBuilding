@@ -11,6 +11,9 @@
 [Day 5: Longest Common Prefix](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/5-LongestCommonPre.js).
 
 
+[Day 6: Maximum subarray](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/6-MaxSubArray.js.js).
+
+
 
 ### **How to Run**
 
