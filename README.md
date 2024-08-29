@@ -17,6 +17,9 @@
 [Day 7: Anagram chekcer](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/7-AnagramCheck.js).
 
 
+[Day 8: Binary Search Implementation](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/8-BinarySearch.js).
+
+
 
 
 ### **How to Run**
