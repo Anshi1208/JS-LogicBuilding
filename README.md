@@ -20,6 +20,9 @@
 [Day 8: Binary Search Implementation](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/8-BinarySearch.js).
 
 
+[Day 9: Rotating array](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/9-RotatingArray.js).
+
+
 
 
 ### **How to Run**
