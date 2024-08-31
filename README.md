@@ -23,6 +23,10 @@
 [Day 9: Rotating array](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/9-RotatingArray.js).
 
 
+[Day 10: Duplicate Array](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/10-DuplicateArray.js).
+
+
+
 
 
 ### **How to Run**
