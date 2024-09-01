@@ -26,6 +26,9 @@
 [Day 10: Duplicate Array](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/10-DuplicateArray.js).
 
 
+[Day 11: Merge Array](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/11-MergeArray.js).
+
+
 
 
 
