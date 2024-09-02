@@ -30,6 +30,10 @@
 
 
 
+[Day 12: Flattening Array](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/12-FlatteningArray.js).
+
+
+
 
 
 ### **How to Run**
