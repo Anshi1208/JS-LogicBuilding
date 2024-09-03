@@ -40,6 +40,10 @@
 
 
 
+[Day 13: Missing Number](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/13-MissingNumber.js).
+
+
+
 
 
 ### **How to Run**
