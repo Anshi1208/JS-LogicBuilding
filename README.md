@@ -51,7 +51,13 @@
 [Day 15: Sliding Window](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/15-SlidingWindow.js).
 
 
-[Day 16: Two Pointer ](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/16-TwoPointer..js).
+
+
+[Day 16: Two Pointer ](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/16-TwoPointer.js).
+
+
+
+[Day 17: Reverse Linked List ](https://github.com/Anshi1208/JS-LogicBuilding/blob/main/17-ReverseLL.js).
 
 
 
